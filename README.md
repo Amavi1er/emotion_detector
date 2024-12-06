@@ -36,6 +36,15 @@ streamlit run app.py
 - Streamlit pour l'interface web
 - Plotly pour les visualisations en temps réel
 
+## Collaboration
+
+Ce projet est développé en collaboration avec :
+- ahmedabdoulkarim682@gmail.com
+
+### Comment Contribuer
+
+Pour plus d'informations sur la contribution au projet, veuillez consulter le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Notes
 
 - Assurez-vous d'avoir une webcam fonctionnelle
